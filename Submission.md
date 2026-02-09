@@ -39,8 +39,7 @@ Negative final totals for small subtotals, ensures result clamps at 0.
 ### 5. Test Name: case-insensitive coupon
 **What it protects against:**  
 It prevents returning a wrong sub-total or accidental discounts when case-insensitive coupon is used.
-Coupon lookup failing because of letter case.
-
+Coupon lookup failing because of letter case
 ---
 
 ## CI Pipeline (if implemented)
