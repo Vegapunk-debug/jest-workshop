@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Rohit Nair P
+- Roll Number: 2024-B-24092006C
+- GitHub Username: Vegapunk-debug
 
 ---
 
@@ -37,7 +37,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
+- Did CI pass successfully? Yes
 - GitHub Actions Run URL:
 
 ---
